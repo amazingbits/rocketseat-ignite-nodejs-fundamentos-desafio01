@@ -1,0 +1,16 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  csv-parse:
+    specifier: ^5.5.3
+    version: 5.5.3
+
+packages:
+
+  /csv-parse@5.5.3:
+    resolution: {integrity: sha512-v0KW6C0qlZzoGjk6u5tLmVfyZxNgPGXZsWTXshpAgKVGmGXzaVWGdlCFxNx5iuzcXT/oJN1HHM9DZKwtAtYa+A==}
+    dev: false
